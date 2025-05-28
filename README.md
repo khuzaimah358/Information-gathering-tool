@@ -6,7 +6,7 @@ Collect subdomains using various tools such as assetfinder, findomain, subfinder
 cyberpunk
 #Installation
 
-sudo git clone https://github.com/muhamma-ibrahim/cyberpunk.git
+sudo git clone https://github.com/khuzaimah358/Information-gathering-tool
 
 cd cyberpunk
 
